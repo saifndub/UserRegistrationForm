@@ -1,0 +1,1 @@
+## This is a simple User Registration Form using basic HTML, PHP, CSS and DBMS.
